@@ -1,0 +1,133 @@
+{
+    "data": [
+      {
+        "id":"1",
+        "name": "Charis Melendez",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-03",
+        "imageUrl": "https://i.pravatar.cc/150?u=4",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"2",
+        "name": "Chaya Vega",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-03",
+        "imageUrl": "https://i.pravatar.cc/150?u=2",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"3",
+        "name": "Harley Underwood"        ,
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-03",
+        "imageUrl": "https://i.pravatar.cc/150?u=3",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"4",
+        "name": "Anish Manning",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-05",
+        "imageUrl": "https://i.pravatar.cc/150?u=1",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"5",
+        "name": "Cayden Murphy",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-05",
+        "imageUrl": "https://i.pravatar.cc/150?u=5",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"6",
+        "name": "Submitted User 6",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-05",
+        "imageUrl": "https://i.pravatar.cc/150?u=6",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"7",
+        "name": "Submitted User 7",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-05",
+        "imageUrl": "https://i.pravatar.cc/150?u=7",
+        "fullMarks": "100",
+        "grade": {
+          "marks": "90",
+          "remark": "Excellent"
+        }
+      },
+      {
+        "id":"8",
+        "name": "Princess Waller",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-03",
+        "imageUrl": "https://i.pravatar.cc/150?u=8",
+        "fullMarks": "100",
+        "grade": {}
+      },
+      {
+        "id":"9",
+        "name": "Lorna Fletcher",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-06",
+        "imageUrl": "https://i.pravatar.cc/150?u=188",
+        "fullMarks": "100",
+        "grade": {}
+      },
+      {
+        "id":"10",
+        "name": "Unsubmitted User 3",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-09",
+        "imageUrl": "https://i.pravatar.cc/150?u=661",
+        "fullMarks": "100",
+        "grade": {}
+      },
+      {
+        "id":"11",
+        "name": "Hana Gutierrez",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-12",
+        "imageUrl": "https://i.pravatar.cc/150?u=441",
+        "fullMarks": "100",
+        "grade": {}
+      },
+      {
+        "id":"12",
+        "name": "Silas Cisneros",
+        "submissionDate": "2023-05-04",
+        "submittedDate": "2023-05-03",
+        "imageUrl": "https://i.pravatar.cc/150?u=136",
+        "fullMarks": "100",
+        "grade": {}
+      }
+    ]
+  }
